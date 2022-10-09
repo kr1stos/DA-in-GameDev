@@ -35,7 +35,20 @@
 - Подключила пакеты и заполнила таблицу UnitySheets:
 ![image](https://user-images.githubusercontent.com/104152574/194777939-e04b91b7-ae7e-4d6b-8d1a-0c8752643175.png)
 ![image](https://user-images.githubusercontent.com/104152574/194777948-4570e72f-7813-4a3a-9137-68e03c606c54.png)
-
+- Создала API key и сделала UnitySheets доступным для редактирования:
+![image](https://user-images.githubusercontent.com/104152574/194778076-e0f62289-6fe4-4f4c-a759-33e0c6e4bad2.png)
+![image](https://user-images.githubusercontent.com/104152574/194778120-0ec81860-2d97-4ad5-a7aa-acc9240c6038.png)
+- Создала проект и импортировал файлы в Unity:
+![image](https://user-images.githubusercontent.com/104152574/194778637-f1c78108-dde5-44bd-b844-be9d49d67b73.png)
+- Связала Unity и GoogleSheets:
+![image](https://user-images.githubusercontent.com/104152574/194779476-d971a9d0-c558-46ac-a360-66bd9ed901c0.png)
+![image](https://user-images.githubusercontent.com/104152574/194779481-96a0ba79-3097-4e03-9429-aef4ad4f0480.png)
+![image](https://user-images.githubusercontent.com/104152574/194779504-e805eb4c-b917-427e-8430-3c858e31611c.png)
+- Подключила музыку:
+![image](https://user-images.githubusercontent.com/104152574/194779766-180a8d99-d216-4776-8a5a-767f98f368a4.png)
+![image](https://user-images.githubusercontent.com/104152574/194779777-38380c69-6c2f-401f-8726-6321c7283ba4.png)
+- Прослушала аудио:
+![image](https://user-images.githubusercontent.com/104152574/194779801-708bbc45-5f76-4af3-82bf-4410f23250ac.png)
 ## Задание 2
 ### Пошагово выполнить каждый пункт раздела "ход работы" с описанием и примерами реализации задач.
 Ход работы:
