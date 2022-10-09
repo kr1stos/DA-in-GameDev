@@ -28,7 +28,13 @@
 ### Реализовать совместную работу и передачу данных в связке Python - Google-Sheets – Unity.
 - Установила Google Sheets API и Google Drive API:
 ![image](https://user-images.githubusercontent.com/104152574/194777117-fe7ac4d5-5dff-4bda-927f-10d07eb55405.png)
-
+- Создала service account:
+![image](https://user-images.githubusercontent.com/104152574/194777299-03bd975b-d74a-4b1a-a7fe-7bf0ab328243.png)
+- Создала UnitySheets и добавила редактора:
+![image](https://user-images.githubusercontent.com/104152574/194777339-79794399-b701-43f2-a8d3-554288daca26.png)
+- Подключила пакеты и заполнила таблицу UnitySheets:
+![image](https://user-images.githubusercontent.com/104152574/194777939-e04b91b7-ae7e-4d6b-8d1a-0c8752643175.png)
+![image](https://user-images.githubusercontent.com/104152574/194777948-4570e72f-7813-4a3a-9137-68e03c606c54.png)
 
 ## Задание 2
 ### Пошагово выполнить каждый пункт раздела "ход работы" с описанием и примерами реализации задач.
