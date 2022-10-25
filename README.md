@@ -80,7 +80,8 @@ public class RollerAgent : Agent
             EndEpisode();
         }
     }
-}~~~
+}
+~~~
                                                     
 ## Задание 2
 ### 
