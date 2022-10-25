@@ -82,6 +82,8 @@ public class RollerAgent : Agent
     }
 }
 ~~~
+- Запустила работу ml-агента:
+![image](https://user-images.githubusercontent.com/104152574/197826352-2d2a9cf7-aa59-4c14-bcfe-d2675801c5dc.png)
                                                     
 ## Задание 2
 ### Подробно описать каждую строку файла конфигурации нейронной сети. Самостоятельно найти информацию о компонентах Decision Requester, Behavior Parameters, добавленных сфере.
@@ -115,9 +117,6 @@ behaviors:
 ## Задание 3
 ### 
 
-
-## Задание 3
-### 
 ## Выводы
 
 | Plugin | README |
