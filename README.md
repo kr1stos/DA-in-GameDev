@@ -30,7 +30,7 @@
 - Создала куб, плоскость, шар:
 ![image](https://user-images.githubusercontent.com/104152574/197807995-35f757c5-ac1a-4b05-a828-2557f1c642b4.png)
 - В скрипт-файл RollerAgent добавила следующий код:
-using System.Collections;
+~~~using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Unity.MLAgents;
@@ -80,7 +80,7 @@ public class RollerAgent : Agent
             EndEpisode();
         }
     }
-}
+}~~~
                                                     
 ## Задание 2
 ### 
