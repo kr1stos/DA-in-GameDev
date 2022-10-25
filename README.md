@@ -23,11 +23,11 @@
 
 ## Задание 1
 ### Реализовать систему машинного обучения в Python - Google-Sheets – Unity.
-В проект Unity добавим два пакета:
+- В проект Unity добавим два пакета:
 ![image](https://user-images.githubusercontent.com/104152574/197794915-9d99d8de-9498-42a9-b697-0229d04deeb9.png)
-Добавила mlagents и torch:
+- Добавила mlagents и torch:
 ![image](https://user-images.githubusercontent.com/104152574/197803728-0ae4f695-6b6e-431d-9527-75e46de9b9df.png)
-Создала куб, плоскость, шар:
+- Создала куб, плоскость, шар:
 ![image](https://user-images.githubusercontent.com/104152574/197807995-35f757c5-ac1a-4b05-a828-2557f1c642b4.png)
 
 ## Задание 2
