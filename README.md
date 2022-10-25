@@ -87,7 +87,9 @@ public class RollerAgent : Agent
 - Сделала несколько копий модели и обучила их:
 ![image](https://user-images.githubusercontent.com/104152574/197832539-26c4562a-9120-41f6-bba6-921f51186163.png)
 - Работа модели:
-                                                 
+https://user-images.githubusercontent.com/104152574/197833503-aa7b15a8-de0e-486d-abae-2d63ab107423.mp4
+
+                                            
 ## Задание 2
 ### Подробно описать каждую строку файла конфигурации нейронной сети. Самостоятельно найти информацию о компонентах Decision Requester, Behavior Parameters, добавленных сфере.
 Decision Requester - запрашивает решение через регулярные промежутки времени.
