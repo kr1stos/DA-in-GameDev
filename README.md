@@ -62,8 +62,33 @@
 ![image](https://user-images.githubusercontent.com/104152574/204280796-04164c5c-7a7b-43c0-9954-47630350fe6a.png)
 ## Задание 2
 ### Построить графики зависимости количества эпох от ошибки обучения. Указать от чего зависит количество эпох обучения.
+![image](https://user-images.githubusercontent.com/104152574/204284874-c46216e7-daea-4a3a-b7d0-6fb91a90033c.png)
+Необходимое количество эпох обучения зависит от bias и weights:
+~~~double DotProductBias(double[] v1, double[] v2) 
+	{
+		if (v1 == null || v2 == null)
+			return -1;
+	 
+		if (v1.Length != v2.Length)
+			return -1;
+	 
+		double d = 0;
+		for (int x = 0; x < v1.Length; x++)
+		{
+			d += v1[x] * v2[x];
+		}
 
+		d += bias;
+	 
+		return d;
+	}
 
+	double CalcOutput(int i)
+	{
+		double dp = DotProductBias(weights,ts[i].input);
+		if(dp > 0) return(1);
+		return (0);
+	}~~~
 ## Задание 3
 ### Должна ли величина loss стремиться к нулю при изменении исходных данных? Ответьте на вопрос, приведите пример выполнения кода, который подтверждает ваш ответ.
 
