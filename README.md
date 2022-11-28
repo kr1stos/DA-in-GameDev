@@ -95,7 +95,6 @@ double DotProductBias(double[] v1, double[] v2)
 ### Построить визуальную модель работы перцептрона.
 Ход работы:
 - Создадим модель для работы фунции OR. Белые кубы - нули, чёрные - единицы. В результате будет произведено логическое сложение.
-https://youtu.be/GI36w8GQZls
 ![lab4 - SampleScene - Windows, Mac, Linux - Unity 2021 3 10f1 Personal_ _DX11_ 2022-11-28 18-59-50](https://user-images.githubusercontent.com/104152574/204297802-57619f1c-4504-4dbb-87ec-4fb4befc4cec.gif)
 
 
