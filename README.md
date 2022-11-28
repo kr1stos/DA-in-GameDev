@@ -57,7 +57,9 @@
 ![image](https://user-images.githubusercontent.com/104152574/204280060-996a7c43-1e64-42f5-8b11-9ed8b5957e31.png)
 ![image](https://user-images.githubusercontent.com/104152574/204280098-3eec9012-7fd0-43b5-8fef-b8c7fcf7d6f8.png)
 ![image](https://user-images.githubusercontent.com/104152574/204280132-f1b30b77-2778-4134-b080-0640299d42d1.png)
-
+4) XOR - даже после прохождения 10000 эпох перцептрон не обучился, он некорректно выполняет работу.
+![image](https://user-images.githubusercontent.com/104152574/204280833-7e550617-35b5-4e42-9258-895944be1256.png)
+![image](https://user-images.githubusercontent.com/104152574/204280796-04164c5c-7a7b-43c0-9954-47630350fe6a.png)
 ## Задание 2
 ### Пошагово выполнить каждый пункт раздела "ход работы" с описанием и примерами реализации задач.
 
