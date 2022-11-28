@@ -51,6 +51,12 @@
 ![image](https://user-images.githubusercontent.com/104152574/204279166-effb54ee-3c6f-4a3a-ae05-30005082121f.png)
 ![image](https://user-images.githubusercontent.com/104152574/204279208-b7cf3508-96e3-49b0-8e44-eedfda6af47b.png)
 ![image](https://user-images.githubusercontent.com/104152574/204279238-48e2bbf3-5626-44b0-aa6f-770b796a464c.png)
+3) NAND - понадобилось 6 эпох обучения, начиная с 7 он корректно выполняет работу.
+![image](https://user-images.githubusercontent.com/104152574/204279989-63b52f1c-eca8-4d4d-9bd8-613d2d03d040.png)
+![image](https://user-images.githubusercontent.com/104152574/204280027-ae78f9c5-48dc-43ec-ab43-382acef4bee7.png)
+![image](https://user-images.githubusercontent.com/104152574/204280060-996a7c43-1e64-42f5-8b11-9ed8b5957e31.png)
+![image](https://user-images.githubusercontent.com/104152574/204280098-3eec9012-7fd0-43b5-8fef-b8c7fcf7d6f8.png)
+![image](https://user-images.githubusercontent.com/104152574/204280132-f1b30b77-2778-4134-b080-0640299d42d1.png)
 
 ## Задание 2
 ### Пошагово выполнить каждый пункт раздела "ход работы" с описанием и примерами реализации задач.
