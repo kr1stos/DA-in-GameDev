@@ -40,6 +40,7 @@
 ### В проекте Unity реализовать перцептрон, который производит вычисления:
 Ход работы:
 - Добавить EmptyObgect и скрипт Perceptron в новый проект.
+![image](https://user-images.githubusercontent.com/104152574/204274280-7bd4007e-8154-48bb-9a38-7acb69e381de.png)
 
 
 ## Задание 2
