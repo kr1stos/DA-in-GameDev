@@ -56,18 +56,16 @@
 ![image](https://user-images.githubusercontent.com/104152574/204566095-2ddc74fb-0910-4846-88bb-8559ef64e0b5.png)
 - изменила параметр epsilon:
 ![image](https://user-images.githubusercontent.com/104152574/204568925-9d96d055-6922-4db1-b863-818838b087a5.png)
+![image](https://user-images.githubusercontent.com/104152574/204572483-79bee798-91cc-4901-ac92-c3e3a9ba8253.png)
 
 - изменила параметр lambd:
 ![image](https://user-images.githubusercontent.com/104152574/204569271-c27ae3b3-8d4f-4dbd-8dc9-39639dae5c90.png)
+![image](https://user-images.githubusercontent.com/104152574/204572369-ec82d89c-d01e-473a-b414-d7d49023888b.png)
 
 - изменила параметр batch_size:
 ![image](https://user-images.githubusercontent.com/104152574/204569433-a2452669-6f7b-44a0-8b8d-de11119c68cc.png)
+![image](https://user-images.githubusercontent.com/104152574/204572909-da959750-d330-4afd-8f8f-f1e004c9a37b.png)
 
-- изменила параметр num_layers:
-![image](https://user-images.githubusercontent.com/104152574/204569669-2cfb501c-efa8-4d8f-af29-bf25578ef933.png)
-
-
-- графики после изменений:
 
 
 ## Выводы
