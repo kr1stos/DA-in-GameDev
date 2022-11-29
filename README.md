@@ -46,13 +46,19 @@
 ![image](https://user-images.githubusercontent.com/104152574/204529229-750b9930-df44-4e8f-a845-4fdd181a5abb.png)
 ![image](https://user-images.githubusercontent.com/104152574/204531500-fc038635-2317-4b37-9c2f-83ec18000156.png)
 ![image](https://user-images.githubusercontent.com/104152574/204560429-4e69ec9d-fec1-4e2c-ba6f-192c7847e109.png)
-
+![image](https://user-images.githubusercontent.com/104152574/204561942-6397f0e5-ac81-4e67-ae56-1fac8f085aa6.png)
 
 ## Задание 2
-### Пошагово выполнить каждый пункт раздела "ход работы" с описанием и примерами реализации задач.
+### Опишите результаты, выведенные в TensorBoard.
+- графики без изменений:
+![image](https://user-images.githubusercontent.com/104152574/204566095-2ddc74fb-0910-4846-88bb-8559ef64e0b5.png)
+- изменила:
+
+- графики после изменений:
+
 
 ## Выводы
-Я познакомилась с основными операторами языка Python на примере линейной регрессии, узнала о "потерях" предсказания и методе оптиизации для минимизации, некоторых методах библиотек numpy и matplotlib.
+Я научились интегрировать экономическую систему в Unity в связке с MLAgent, а также понаблюдали за результатами после изменений значений при разных конфигурациях yaml-файла.
 | Plugin | README |
 | ------ | ------ |
 | Dropbox | [plugins/dropbox/README.md][PlDb] |
