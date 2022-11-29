@@ -45,6 +45,7 @@
 ![image](https://user-images.githubusercontent.com/104152574/204529190-ae286827-ffa1-4fd6-a921-1619275afb79.png)
 ![image](https://user-images.githubusercontent.com/104152574/204529229-750b9930-df44-4e8f-a845-4fdd181a5abb.png)
 ![image](https://user-images.githubusercontent.com/104152574/204531500-fc038635-2317-4b37-9c2f-83ec18000156.png)
+![image](https://user-images.githubusercontent.com/104152574/204560429-4e69ec9d-fec1-4e2c-ba6f-192c7847e109.png)
 
 
 ## Задание 2
