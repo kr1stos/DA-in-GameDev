@@ -47,6 +47,7 @@
 ![image](https://user-images.githubusercontent.com/104152574/204531500-fc038635-2317-4b37-9c2f-83ec18000156.png)
 ![image](https://user-images.githubusercontent.com/104152574/204560429-4e69ec9d-fec1-4e2c-ba6f-192c7847e109.png)
 - Обучила нейросеть.
+
 ![image](https://user-images.githubusercontent.com/104152574/204561942-6397f0e5-ac81-4e67-ae56-1fac8f085aa6.png)
 
 ## Задание 2
